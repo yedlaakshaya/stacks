@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/yedlaakshaya/stacks/tree/master/0155-min-stack) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yedlaakshaya/stacks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/yedlaakshaya/stacks/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/yedlaakshaya/stacks/tree/master/2000-reverse-prefix-of-word) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/yedlaakshaya/stacks/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

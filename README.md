@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/yedlaakshaya/stacks/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/yedlaakshaya/stacks/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/yedlaakshaya/stacks/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/yedlaakshaya/stacks/tree/master/0709-to-lower-case) |
 | [2000-reverse-prefix-of-word](https://github.com/yedlaakshaya/stacks/tree/master/2000-reverse-prefix-of-word) |
 ## Design

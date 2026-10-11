@@ -24,10 +24,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yedlaakshaya/stacks/tree/master/0344-reverse-string) |
+| [0409-longest-palindrome](https://github.com/yedlaakshaya/stacks/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/yedlaakshaya/stacks/tree/master/0709-to-lower-case) |
 | [2000-reverse-prefix-of-word](https://github.com/yedlaakshaya/stacks/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yedlaakshaya/stacks/tree/master/0155-min-stack) |
+## Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/yedlaakshaya/stacks/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/yedlaakshaya/stacks/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->

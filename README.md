@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yedlaakshaya/stacks/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/yedlaakshaya/stacks/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/yedlaakshaya/stacks/tree/master/0409-longest-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/yedlaakshaya/stacks/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
